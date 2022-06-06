@@ -1,0 +1,12 @@
+.flex-container {
+    display: flex;
+  }
+
+  h1{
+    justify-content:center;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+
+  }

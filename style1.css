@@ -1,0 +1,43 @@
+body{
+    background: radial-gradient(circle, rgb(209, 203, 231) 0%, rgb(221, 211, 211) 100%);
+}
+.ff{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-top:40px;
+    padding: 50px;
+    background: radial-gradient(circle, rgb(75, 49, 180) 0%, rgb(15, 100, 139) 100%);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    
+}
+.heading{
+    margin-top: 25px;
+    color: rgb(0, 0, 0);
+}
+
+.ppnt{
+
+    margin-right: 318px;
+
+}
+
+.buttonz{
+    background: linear-gradient(90deg, rgba(56,50,171,1) 0%, rgba(11,9,144,1) 0%, rgba(0,212,255,1) 100%);
+    width: 250px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+.ff2{
+    border-radius: 35px;
+}
+
+.top-usr{
+    margin-top: 7px;
+    margin-right: 5px;
+}
+.lgt{
+    width: 100px;
+}
+.pagination{
+    margin-left: 1100px;
+ }
